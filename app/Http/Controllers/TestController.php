@@ -18,7 +18,7 @@ class TestController extends Controller
 
     public function index(){
 
-        echo 1;die;
+        echo '测试';die;
     }
 
 
